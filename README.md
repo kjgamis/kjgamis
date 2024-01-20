@@ -4,8 +4,7 @@ I'm a Full-Stack Developer based in Toronto, ON.
 
 - 💪 I'm a serial hobbyist who is always looking for a challenge
 - 🔭 I’m currently working on [attn](https://github.com/kjgamis/attn)
-- 🌱 I'm currently learning C
-- ⚙️ Passionate about accessibility and user experience
+- 🌱 I'm currently learning C++
 - ⚡ Fun fact: [**I make mead**](https://www.tiktok.com/@honeybearmead)
 
 Relevant links:
